@@ -1,0 +1,11 @@
+theme = "dark_plus"
+
+[editor]
+bufferline = "multiple"
+
+[editor.indent-guides]
+skip-levels = 1
+render = true
+
+[editor.whitespace.render]
+tab = "all"
